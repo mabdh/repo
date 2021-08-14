@@ -17,6 +17,12 @@
 ### Site Reliability
 - [SRE Book](https://sre.google/sre-book/table-of-contents/)
 
+### Distributed Systems
+- [Bigtable: A Distributed Storage System for Structured Data, 2006](https://research.google/pubs/pub27898.pdf)
+- [Dynamo: Amazon's Highly Available Key-value Store, 2007](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
+- [Google Percolator - Large-scale Incremental Processing Using Distributed Transactions and Notifications, 2010](https://research.google/pubs/pub36726.pdf)
+- [Spanner: Google’s Globally-Distributed Database, 2012](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
+
 ## Video
 
 ### Search
