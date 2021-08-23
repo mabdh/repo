@@ -5,6 +5,7 @@
 - [How a Search Engine May Measure Search Results Quality](https://www.seobythesea.com/2011/09/how-a-search-engine-may-measure-the-quality-of-its-search-results/)
 - [Does Google Use Reachability Scores in Ranking Resources?](https://www.seobythesea.com/2012/11/google-reachability-scores/)
 - [SHORT CLICKS VERSUS LONG CLICKS](http://www.blindfiveyearold.com/short-clicks-versus-long-clicks)
+- [Spellcorrection with embedding](https://towardsdatascience.com/embedding-for-spelling-correction-92c93f835d79)
 
 ### Elasticsearch
 - [The Authoritative Guide to Elasticsearch Performance Tuning](https://qbox.io/blog/authoritative-guide-elasticsearch-performance-tuning-part-1)
