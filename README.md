@@ -1,4 +1,4 @@
-##Resource
+## Resource
 
 ### ID
 - [sonyflake](https://github.com/sony/sonyflake)
