@@ -5,6 +5,7 @@
 - [ulid](https://github.com/ulid/spec)
 - [nanoid](https://github.com/ai/nanoid)
 - [wuid](https://github.com/edwingeng/wuid)
+- [firebase push id](https://gist.github.com/mikelehen/3596a30bd69384624c11)
 
 ## Reading
 
